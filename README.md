@@ -17,3 +17,7 @@ git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 ```
 ln -s ~/.tmux/tmux-config/tmux.conf ~/.tmux.conf
 ```
+4. Install tmux plugins
+```
+~/.tmux/plugins/tpm/scripts/install_plugins.sh
+```
