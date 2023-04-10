@@ -4,3 +4,6 @@
 [submodule "tmux-continuum"]
 	path = tmux-continuum
 	url = https://github.com/tmux-plugins/tmux-continuum
+[submodule "tmux-fzf-url"]
+	path = tmux-fzf-url
+	url = https://github.com/wfxr/tmux-fzf-url.git
